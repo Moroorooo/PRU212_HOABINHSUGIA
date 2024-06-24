@@ -8,6 +8,7 @@ TagManager:
   - Apple
   - thihop
   - NPC
+  - Door
   layers:
   - Default
   - TransparentFX
