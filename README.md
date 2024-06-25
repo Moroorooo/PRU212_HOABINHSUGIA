@@ -22,7 +22,7 @@ Khi đến nhà, nhân vật chính sẽ có dịp gặp gỡ và chia sẻ thà
 - **Unity Asset Store và itch.io**: Tận dụng các tài nguyên từ các nền tảng này để mang đến cho game một thế giới sống động và đa dạng.
 ## Cài đặt và Chạy thử
 
-### Cách 1: Cài đặt và Chạy thử
+### Cách 1: Pull Từ github
 	1. Clone repository về máy của bạn:
 
     	git clone https://github.com/yourusername/HoaBinhSuGia.git
@@ -39,6 +39,8 @@ Chúng tôi rất hoan nghênh mọi đóng góp để làm cho **Hoa Bình Sứ
 
 ## Liên hệ
 Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi tại: shinratensen1@gmail.com
+
+
 ------------------------------------ ScreenShot of Game -----------------------------------------------
 
 
