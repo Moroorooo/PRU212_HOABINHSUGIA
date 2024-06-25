@@ -2,8 +2,8 @@
 PRU 212 _ Game: Hoa Bình Sứ Giả.
           Stype: Mario game.
               2D.
-### Xem trước
-Xem trước video giới thiệu **Hoa Bình Sứ Giả**:
+### Xem trước Gameplay
+Xem trước Gameplay video giới thiệu **Hoa Bình Sứ Giả**:
 
 [![Hoa Bình Sứ Giả - GamePlay](http://img.youtube.com/vi/Y2-dKNcQ4ZI/0.jpg)](https://youtu.be/Y2-dKNcQ4ZI?si=33kY7j904MjS6y74)
 ============================================================================
@@ -33,11 +33,11 @@ Khi đến nhà, nhân vật chính sẽ có dịp gặp gỡ và chia sẻ thà
     
 	2. Mở project bằng Unity Hub và chạy file HoaBinh_PRU.exe để trải nghiệm game.
 ### Cách 2: Tải file build
-	1. Ở Mục Releases trên github chọn tag- HoaBinhSuGiaGameV2. Sẽ đưa bạn đến trang 
-GAME-HoaBinhSuGia kéo xuống dưới cùng và bắt đầu download file zip.
-	2. Giải nén file .zip vừa download , ta được thư mục BuildGameV2.
-	3. Trong thư mục này sẽ có file HoaBinh_PRU.exe. Bấm vào và play game.
-	4. Enjoy!
+	1. Ở Mục Releases trên github chọn tag- HoaBinhSuGiaGameV2. 
+ 	2.Sẽ đưa bạn đến trang "GAME-HoaBinhSuGia" kéo xuống dưới cùng và bắt đầu download file zip.
+	3. Giải nén file .zip vừa download , ta được thư mục BuildGameV2.
+	4. Trong thư mục này sẽ có file HoaBinh_PRU.exe. Bấm vào và play game.
+	5. Enjoy!
 ## Đóng góp
 Chúng tôi rất hoan nghênh mọi đóng góp để làm cho **Hoa Bình Sứ Giả** ngày càng hoàn thiện hơn. Vui lòng tạo một pull request hoặc liên hệ trực tiếp với chúng tôi nếu bạn có ý kiến hay đóng góp.
 
