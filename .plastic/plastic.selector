@@ -1,0 +1,4 @@
+repository "PRU212_HOABINHSUGIA@shinratensen1@cloud"
+  path "/"
+    smartbranch "/main/BackupV1" 
+     

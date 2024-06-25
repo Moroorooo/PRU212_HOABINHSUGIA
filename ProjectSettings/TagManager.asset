@@ -58,6 +58,9 @@ TagManager:
   - name: NPC_player
     uniqueID: 1139107699
     locked: 0
+  - name: Message
+    uniqueID: 98776499
+    locked: 0
   - name: Items
     uniqueID: 268407989
     locked: 0
