@@ -24,9 +24,9 @@ Khi đến nhà, nhân vật chính sẽ có dịp gặp gỡ và chia sẻ thà
 
 ### Cách 1: Cài đặt và Chạy thử
 	1. Clone repository về máy của bạn:
-    ```sh
-    git clone https://github.com/yourusername/HoaBinhSuGia.git
-    ```
+
+    	git clone https://github.com/yourusername/HoaBinhSuGia.git
+    
 	2. Mở project bằng Unity Hub và chạy file HoaBinh_PRU.exe để trải nghiệm game.
 ### Cách 2: Tải file build
 	1. Ở Mục Releases trên github chọn tag- HoaBinhSuGiaGameV2. Sẽ đưa bạn đến trang 
