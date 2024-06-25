@@ -34,7 +34,7 @@ Khi đến nhà, nhân vật chính sẽ có dịp gặp gỡ và chia sẻ thà
 	2. Mở project bằng Unity Hub và chạy file HoaBinh_PRU.exe để trải nghiệm game.
 ### Cách 2: Tải file build
 	1. Ở Mục Releases trên github chọn tag- HoaBinhSuGiaGameV2. 
- 	2.Sẽ đưa bạn đến trang "GAME-HoaBinhSuGia" kéo xuống dưới cùng và bắt đầu download file zip.
+ 	2. Sẽ đưa bạn đến trang "GAME-HoaBinhSuGia" kéo xuống dưới cùng và bắt đầu download file zip.
 	3. Giải nén file .zip vừa download , ta được thư mục BuildGameV2.
 	4. Trong thư mục này sẽ có file HoaBinh_PRU.exe. Bấm vào và play game.
 	5. Enjoy!
