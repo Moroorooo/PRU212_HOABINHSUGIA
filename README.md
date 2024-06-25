@@ -2,7 +2,7 @@
 PRU 212 _ Game: Hoa Bình Sứ Giả.
           Stype: Mario game.
               2D.
-	      <iframe width="560" height="315" src="https://www.youtube.com/embed/Y2-dKNcQ4ZI?si=6GdpuugeKFZWWN1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	      https://youtu.be/Y2-dKNcQ4ZI?si=_IrakXZ1cTm9O-bO
 ============================================================================
 ## Giới thiệu
 **Hoa Bình Sứ Giả** là một game phiêu lưu mang thông điệp bảo vệ môi trường và khám phá. Người chơi sẽ nhập vai vào một học sinh - sứ giả mang sứ mệnh tìm kiếm hòa bình và giải quyết các thử thách trên đường về nhà sau giờ học.
